@@ -61,7 +61,6 @@
 
 [Консультант Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
 
-<image src="https://picsum.photos/800/600" alt="Описание картинки">
 
 ## Картинка
 
