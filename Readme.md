@@ -76,5 +76,11 @@
 
 -----
 
-[Консультант Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+## Ссылка
+
+  - Для вставки ссылки можно воспользоваться тем же алгоритмом, что использовался при вставке картинки, т.е. можно использовать конструкцию "__!__ __[текст ссылки]__ __(ссылка)__".
+
+    [Консультант Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+
+
 
