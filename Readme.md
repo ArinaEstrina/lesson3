@@ -54,13 +54,6 @@
 - ### Удаление веток
    - Для удаления ветки ввести команду *git branch -d 'name branch'*
 
--------
-> В теории, теория и практика неразделимы. На практике это не так.
-
------
-
-[Консультант Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
-
 
 ## Картинка
 
@@ -73,4 +66,11 @@
 
 
 
-   
+
+-------
+> В теории, теория и практика неразделимы. На практике это не так.
+
+-----
+
+[Консультант Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+
